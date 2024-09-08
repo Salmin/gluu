@@ -1,1 +1,20 @@
-{}
+{
+    "onessa": {
+        "projectName": "onessa",
+        "description": "test gluu",
+        "type": "community",
+        "author": "Salmin",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Salmin/gluu",
+        "githubUri": "https://github.com/Salmin/gluu",
+        "license": "apache-2.0",
+        "lastUpdated": "1725828831023",
+        "tags": [
+            "openid-connect",
+            "jans",
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
